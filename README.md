@@ -1,4 +1,3 @@
-<img width="609" height="598" alt="Track Map" src="https://github.com/user-attachments/assets/108178d3-4276-4814-93e6-6103b8bb1ecd" />
 # ACC-Telemetries-in-Matlab-Simulink
 
 MATLAB & Simulink toolkit for parsing, visualizing, replaying and live syncing (In upcoming versions) Assetto Corsa Competizione (ACC) telemetry data, featuring interactive 3D map plotting and vehicle kinematics analysis.

@@ -1,6 +1,6 @@
 # ACC-Telemetries-in-Matlab-Simulink
 
-MATLAB & Simulink toolkit for parsing, visualizing, replaying and live syncing Assetto Corsa Competizione (ACC) telemetry data, featuring interactive 3D map plotting and vehicle kinematics analysis.
+MATLAB & Simulink toolkit for parsing, visualizing, replaying and live syncing (In upcoming versions) Assetto Corsa Competizione (ACC) telemetry data, featuring interactive 3D map plotting and vehicle kinematics analysis.
 
 Versions:
 Version	Folder	What it does

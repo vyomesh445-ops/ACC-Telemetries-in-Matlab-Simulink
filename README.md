@@ -14,9 +14,9 @@ Record: the Python script reads telemetry from ACC while you drive and saves it 
 Analyse and replay: the MATLAB scripts load a log, plot the data, draw the track map and animate the car's body motion. A Simulink replay model can be generated from the same data.
 
 Requirements:
-Assetto Corsa Competizione (must be running while recording).
-MATLAB with Simulink.
-Python 3.
+- Assetto Corsa Competizione (must be running while recording).
+- MATLAB with Simulink.
+- Python 3.
 
 See the README inside each version folder for exact steps.
 
